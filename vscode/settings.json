@@ -1,7 +1,7 @@
 {
     "diffEditor.renderSideBySide": false,
     // Controls the font size in pixels.
-	"editor.fontSize": 12,
+    "editor.fontSize": 12,
     "git.openRepositoryInParentFolders": "always",
     "files.associations": {
         "Jenkinsfile": "groovy"
