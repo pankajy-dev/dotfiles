@@ -1,0 +1,60 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "redhat.telemetry.enabled": false,
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "none",
+    "github.copilot.advanced": {},
+    "files.autoSave": "onFocusChange",
+    "yaml.customTags": [
+
+    ],
+    "yaml.schemas": {
+        "Kubernetes": [
+            "*dev.yaml"
+        ],
+    },
+    "explorer.confirmDragAndDrop": false,
+    "vs-kubernetes": {
+    
+
+        "vs-kubernetes.namespace": "",
+        "vs-kubernetes.kubectl-path": "",
+        "vs-kubernetes.helm-path": "",
+        "vs-kubernetes.minikube-path": "",
+        "vs-kubernetes.kubectlVersioning": "user-provided",
+        "vs-kubernetes.outputFormat": "yaml",
+        "vs-kubernetes.kubeconfig": "",
+        "vs-kubernetes.knownKubeconfigs": [],
+        "vs-kubernetes.autoCleanupOnDebugTerminate": false,
+        "vs-kubernetes.nodejs-autodetect-remote-root": true,
+        "vs-kubernetes.nodejs-remote-root": "",
+        "vs-kubernetes.nodejs-debug-port": 9229,
+        "vs-kubernetes.dotnet-vsdbg-path": "~/vsdbg/vsdbg",
+        "vs-kubernetes.local-tunnel-debug-provider": "",
+        "checkForMinikubeUpgrade": true,
+        "imageBuildTool": "Docker"
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "files.associations": {
+        "Jenkinsfile": "groovy"
+    },
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 13,
+"window.confirmSaveUntitledWorkspace": false,
+"git.confirmSync": false,
+"security.workspace.trust.untrustedFiles": "open",
+"diffEditor.useInlineViewWhenSpaceIsLimited": false,
+"[markdown]": {
+    "editor.validateOnSave": false,
+    "editor.formatOnSave": false,
+  },
+"markdown.validate.enabled": false,
+"markdownlint.enable": false,
+"workbench.editor.enablePreview": false,
+"github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+}
+}
