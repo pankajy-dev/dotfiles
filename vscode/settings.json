@@ -43,7 +43,8 @@
 "window.confirmSaveUntitledWorkspace": false,
 "git.confirmSync": false,
 "security.workspace.trust.untrustedFiles": "open",
-"diffEditor.useInlineViewWhenSpaceIsLimited": false,
+"diffEditor.useInlineViewWhenSpaceIsLimited": true,
+"diffEditor.renderSideBySide": false,
 "[markdown]": {
     "editor.validateOnSave": false,
     "editor.formatOnSave": false,
